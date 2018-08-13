@@ -7,7 +7,7 @@ def assign_variable(value)
 end
 
 def argue(statement)
-  
+  statement = "Accepting an arguement."
 end
 
 def greeting
